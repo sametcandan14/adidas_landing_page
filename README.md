@@ -1,0 +1,3 @@
+<h1>LANDING PAGE WITH CSS ANIMATION</h1>
+
+!["LANDING PAGE GIF"](./img/landing.gif)
